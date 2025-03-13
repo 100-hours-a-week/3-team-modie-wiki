@@ -67,6 +67,7 @@
 <br />
 
 ## 아키텍처 구조
+![modie최종png](https://github.com/user-attachments/assets/d01be1b1-d3fd-4114-8a4f-ee8ab4e9086c)
 
 <br />
 

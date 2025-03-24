@@ -68,7 +68,7 @@
 
 ## 아키텍처 구조
 
-![modie drawio (2)](https://github.com/user-attachments/assets/341967ec-5e31-492e-a85a-b23630310b61)
+![modie-DEV drawio](https://github.com/user-attachments/assets/3d039dba-750a-41d6-9a69-d357d74798b4)
 **[그림 1] DEV 서버 아키텍처 구성도**
 
 <br />

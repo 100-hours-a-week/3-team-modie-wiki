@@ -67,10 +67,10 @@
 <br />
 
 ## 아키텍처 구조
-![modie-DEV drawio (2)](https://github.com/user-attachments/assets/80ad08a5-1f81-4a4c-af9e-6b0d8529c3a4)
+![modie-DEV drawio (2)](https://github.com/user-attachments/assets/02324395-9356-4835-89d1-7f9ffdc28b2b)
 **[그림 1] DEV 서버 아키텍처 구성도**
 
-![modie-PROD drawio (1)](https://github.com/user-attachments/assets/cdd9f671-8b66-41d8-bdbd-d28ba02a87d9)
+![modie-PROD drawio (2)](https://github.com/user-attachments/assets/cd6c53a7-d226-403c-a237-ccdacd164388)
 **[그림 2] PROD 서버 아키텍처 구성도**
 
 <br />

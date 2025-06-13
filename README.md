@@ -43,7 +43,7 @@
 | danny.oh (오예찬)    | 데브옵스     |           |
 | hazel.park (박희진)  | 프론트엔드 |           |
 | hyuk.kim (김상혁)    | 백엔드     |           |
-| jade.lee (이태환)    | 백엔드     |           |
+| jade.lee (이태현)    | 백엔드     |           |
 | urung.lee (이우형)   | 백엔드     |           |
 
 <br />
